@@ -1,0 +1,2 @@
+beginner_tutorials:follower3:learning_tf
+-DCATKIN_DEVEL_PREFIX=/media/oz26/Oz/Robotics/te3001b/Beginner_Tutorials/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/media/oz26/Oz/Robotics/te3001b/Beginner_Tutorials/catkin_ws/install -G Unix Makefiles

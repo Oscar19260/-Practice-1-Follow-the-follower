@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="beginner_tutorials" type="talker.py" name="talker" />
+    <!-- Name: attr required    -->
+    <node pkg="beginner_tutorials" type="listener.py" name="listener" output="screen"/>
+    <!-- Include other launch files   -->
+</launch>

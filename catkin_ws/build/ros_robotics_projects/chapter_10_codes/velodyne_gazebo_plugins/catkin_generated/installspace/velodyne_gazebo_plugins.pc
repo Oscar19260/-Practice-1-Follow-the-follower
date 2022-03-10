@@ -1,0 +1,8 @@
+prefix=/media/oz26/Oz/Robotics/te3001b/Beginner_Tutorials/catkin_ws/install
+
+Name: velodyne_gazebo_plugins
+Description: Description of velodyne_gazebo_plugins
+Version: 1.0.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lgazebo_ros_velodyne_laser
+Requires: tf gazebo_ros gazebo_plugins roscpp sensor_msgs

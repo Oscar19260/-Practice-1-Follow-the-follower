@@ -1,0 +1,8 @@
+prefix=/media/oz26/Oz/Robotics/te3001b/Beginner_Tutorials/catkin_ws/devel
+
+Name: vr_leap_teleop
+Description: Description of vr_leap_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
