@@ -10,3 +10,6 @@ To get the number of collisions on the turtle 1, the following command is execut
 ```
 $ rostopic echo /turtle1/collision
 ```
+
+
+* Ros version: Noetic *
