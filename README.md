@@ -12,4 +12,4 @@ $ rostopic echo /turtle1/collision
 ```
 
 
-* Ros version: Noetic *
+*Ros version: Noetic*
